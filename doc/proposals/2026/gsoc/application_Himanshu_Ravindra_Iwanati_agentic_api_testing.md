@@ -689,7 +689,7 @@ class ReportGenerator {
 
 ### 4.1 Agent Workflow State Machine
 
-![State Machine](images/hihry_stateMachine.png)
+![State Machine](images/hihry_state.png)
 
 #### 4.1.1 State Transition Table
 
